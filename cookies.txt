@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+publ.maillist-manage.com	TRUE	/	FALSE	1999999999	c72887300d	52aff4c5346e9cc55c8d93f11ed44f33
+www.internetcafe.games	TRUE	/	FALSE	1999999999	SESSIONSTORAGE	sessionStorageB2
+www.internetcafe.games	TRUE	/	FALSE	1999999999	SESSIONSTORAGEEXPIRATION	%7Bts%20%272021%2D05%2D29%2022%3A46%3A16%27%7D
+www.internetcafe.games	TRUE	/	FALSE	1999999999	CFID	168626009
+www.internetcafe.games	TRUE	/	FALSE	1999999999	CFTOKEN	f30c6f134581d1c4-1E4BE46D-0A35-4280-F6A0C51FC71C8829
+

@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 May 2021 23:45:56 at https://www.internetcafe.games/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.internetcafe.games/ -O1 "C:\Lucky Sweeps\njilndz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:46:40	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/news (from https://www.internetcafe.games/)
+23:46:40	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/faq (from https://www.internetcafe.games/)
+23:46:40	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/golden-dragon (from https://www.internetcafe.games/)
+23:46:40	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/fire-kirin (from https://www.internetcafe.games/)
+23:46:40	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/phantom-wifi (from https://www.internetcafe.games/)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/go-to-spin (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/ultra-monster (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/royal-eagle (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/tiger-is-home (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/skillmine (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/phantom-soft (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/Fire-Kirin (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/fortune-2-go (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/vegas-x (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/vegas-7 (from https://www.internetcafe.games/gaming-systems)
+23:46:42	Error: 	"Too Many Requests" (429) at link https://www.internetcafe.games/orion-stars (from https://www.internetcafe.games/gaming-systems)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 64 links scanned, 47 files written (8461275 bytes overall) [7850663 bytes received at 170666 bytes/sec], 865817 bytes transferred using HTTP compression in 15 files, ratio 26%, 1.2 requests per connection
+(16 errors, 0 warnings, 0 messages)
